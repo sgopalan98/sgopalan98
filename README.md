@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/itissanty" target="blank"><img src="https://img.shields.io/twitter/follow/itissanty?logo=twitter&style=for-the-badge" alt="itissanty" /></a> </p>
 
-- 🔭 I’m currently working on [Concurrent Key - Value server]([https://github.com/sgopalan98/hashtable_server](https://github.com/sgopalan98/delegation_kv_server))
+- 🔭 I’m currently working on [Concurrent Key - Value server]([https://github.com/sgopalan98/delegation_kv_server])
 
 - 🌱 I’m currently learning **Rust!**
 
