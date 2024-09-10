@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/itissanty" target="blank"><img src="https://img.shields.io/twitter/follow/itissanty?logo=twitter&style=for-the-badge" alt="itissanty" /></a> </p>
 
-- 🔭 I’m currently working on [Concurrent Key - Value server](https://github.com/sgopalan98/delegation_kv_server)
+- 🔭 I’m currently working on nothing rn... Just brainstorming for some ideas.
 
-- 🌱 I’m currently learning **Rust!**
+- 🌱 I’m currently learning **Nextflow**, **Java**, **Google Cloud**
 
 - 💬 Ask me about **Java, Scala, Python, Backend development**
 
 - 📫 How to reach me **santhanagopalank1998@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/sgopalan98/sgopalan98/blob/main/Santhanagopalan%20Resume%20-%20v7.pdf](https://github.com/sgopalan98/sgopalan98/blob/main/Santhanagopalan%20Resume%20-%20v7.pdf)
+- 📄 Know about my experiences - [Resume](https://github.com/sgopalan98/sgopalan98/blob/main/Santhanagopalan%20Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
